@@ -1,0 +1,1 @@
+A Ruby threadpool implementation based on the code at http://stackoverflow.com/questions/81788/deadlock-in-threadpool
